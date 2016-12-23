@@ -1,0 +1,28 @@
+{
+  "name": "basic_http_server_node",
+  "version": "1.0.0",
+  "description": "Basic Http server using Node.js",
+  "main": "HTTPServer.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utahraul/basicHttpServerNode.git"
+  },
+  "author": "Raúl Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utahraul/basicHttpServerNode/issues"
+  },
+  "homepage": "https://github.com/utahraul/JavaScript#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6",
+    "sinon-chai": "^2.8.0"
+  }
+}
